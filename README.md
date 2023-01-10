@@ -1,6 +1,5 @@
 <h1 align="center">Inventario Agricultura</h1><br>
 <h2 align="center">APLICACIÓN WEB PARA GESTIONAR EL INVENTARIO DE PRODUCTOS IMPLEMENTANDO TECNOLOGÍA QR</h2><br>
-<h2 align="center"><strong>Hecho por: </strong></h2><br>
 Este trabajo fue hecho con el Framework de laravel
 Para su correcto funcionamiento se requiere tener instalado PHP, <a href="https://getcomposer.org">composer</a>
 y <a href="https://nodejs.org/en/">node</a> instalado en el ordenador. Tambien se debe tener instalada
